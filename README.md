@@ -84,20 +84,20 @@ VISUALIZACIONES
 
 En SQLite
     -Ejecutando el script: descripcion.sql
-    ![Mostrar todos los datos](./Proofs/Demo1_bbdd.png)
-    ![Recuento de todos los datos](./Proofs/Demo2_bbdd.png)
-    ![Buscar por nombre de alojamiento](./Proofs/Demo3_bbdd.png)
-    ![Buscar por tipo, ciudad y valoración](./Proofs/Demo4_bbdd.png)
+    ![Mostrar todos los datos](Demo1_bbdd.png)
+    ![Recuento de todos los datos](Demo2_bbdd.png)
+    ![Buscar por nombre de alojamiento](Demo3_bbdd.png)
+    ![Buscar por tipo, ciudad y valoración](Demo4_bbdd.png)
 
 En Power BI
     -Preguntas y respuestas: Potenciado por IA para responder las preguntas de los nuevos usuarios.
     -Matriz de datos: Seguimiento de la media de las valoraciones y los alojamientos.
     -Elementos influyentes clave: Características que influyen en las valoraciones de los alojamientos.
     -Mapa interactivo: Ubicación de los alojamientos por ciudad.
-    ![Gif de la interfaz de preguntas y respuestas](./Proofs/DemoPowerBi1.gif).
-    ![Gif de la interfaz de matriz de datos](./Proofs/DemoPowerBi4.gif).
-    ![Gif de la interfaz de elementos influyentes clave](./Proofs/DemoPowerBi2.gif).
-    ![Gif de la interfaz de mapa interactivo](./Proofs/DemoPowerBi3.gif).
+    ![Gif de la interfaz de preguntas y respuestas](DemoPowerBi1.gif).
+    ![Gif de la interfaz de matriz de datos](DemoPowerBi4.gif).
+    ![Gif de la interfaz de elementos influyentes clave](DemoPowerBi2.gif).
+    ![Gif de la interfaz de mapa interactivo](DemoPowerBi3.gif).
 
 --------------------------------------------------------------------------------------------------------------------------------
 
